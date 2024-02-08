@@ -24,8 +24,9 @@ This project demonstrates a fully functional prediction API that leverages the D
 ## Getting Started
 
 1. **Clone the Repository**: Access all necessary files for local setup and deployment.
-2. **Install Dependencies**: Utilize Poetry for Python dependency management.
-3. **Run Locally**: Test the application's functionality using pytest and Docker.
-4. **Deploy to Azure**: Follow the instructions for AKS deployment and monitoring setup.
+2. **Install Dependencies**: Use Poetry for Python dependency management, utilizing the `pyproject.toml` file which specifies project dependencies.
+3. **Run Locally**: To test the application's functionality locally, execute `deploy_minikube.sh` for a Minikube deployment.
+4. **Deploy to Azure**: For Azure deployment, utilize `deploy_azure.sh` following the Azure Kubernetes Service (AKS) setup instructions.
+5. **Load Testing**: Conduct load testing by running `load_testing.sh`, which simulates traffic to your deployed application.
 
 ## Project Organization
