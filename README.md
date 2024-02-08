@@ -34,7 +34,7 @@ This project demonstrates a fully functional prediction API that leverages the D
 
 ## Project Organization
 
-    ├── README.md                  <- Provides an overview and documentation for the project.
+    ├── README.md                  
     ├── .k8s                       <- Contains Kubernetes configuration files for deployment and service setup.
     ├── scripts                                                       
     │   ├── build_push_image.sh    <- Script to build and push the Docker image to Azure Container Registry (ACR) for deployment.
