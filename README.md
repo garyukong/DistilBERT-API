@@ -32,8 +32,6 @@ This project demonstrates a fully functional prediction API that leverages the D
 
 ## Project Organization
 
-## Project Organization
-
     ├── README.md                  
     ├── .k8s                       <- Contains Kubernetes configuration files for deployment and service setup.
     ├── scripts                                                       
